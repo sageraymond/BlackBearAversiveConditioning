@@ -1,0 +1,860 @@
+Bear ID,Time,Period,Treatment,PropDev,DistDev
+F04 ,Pre,day  ,AC     ,0,2099.869141
+F04 ,Pre,day  ,AC     ,0,2031.317261
+F04 ,Pre,day  ,AC     ,0,2099.869141
+F04 ,Pre,day  ,AC     ,0,2073.505371
+F04 ,Pre,day  ,AC     ,0,1821.1604
+F04 ,Pre,day  ,AC     ,0,1773.421875
+F04 ,Pre,day  ,AC     ,0,1825
+F04 ,Pre,day  ,AC     ,0,1587.458618
+F04 ,Pre,day  ,AC     ,0,1587.458618
+F04 ,Pre,day  ,AC     ,0,1504.800659
+F04 ,Pre,day  ,AC     ,0,1389.829102
+F04 ,Pre,day  ,AC     ,0,1100.011353
+F04 ,Pre,day  ,AC     ,0,796.0056763
+F04 ,Pre,day  ,AC     ,0,700.3570557
+F04 ,Pre,day  ,AC     ,0,700.3570557
+F04 ,Pre,day  ,AC     ,0,796.0056763
+F04 ,Pre,day  ,AC     ,0,940.0133057
+F04 ,Pre,day  ,AC     ,0,856.7671509
+F04 ,Pre,day  ,AC     ,0,938.0964966
+F04 ,Pre,day  ,AC     ,0,1004.800964
+F04 ,Pre,day  ,AC     ,0,1137.013672
+F04 ,Pre,day  ,AC     ,0,1244.507935
+F04 ,Pre,day  ,AC     ,0,1497.414429
+F04 ,Pre,day  ,AC     ,0,1377.624756
+F04 ,Pre,day  ,AC     ,0,1375.009033
+F04 ,Pre,day  ,AC     ,0,1250.01001
+F04 ,Pre,day  ,AC     ,0,1125.011108
+F04 ,Pre,day  ,AC     ,0,1125.011108
+F04 ,Pre,day  ,AC     ,0,775.1451416
+F04 ,Pre,night,AC     ,0,682.8067017
+F04 ,Pre,night,AC     ,0,689.4381714
+F04 ,Pre,night,AC     ,0,689.5106812
+F04 ,Pre,night,AC     ,0,686.0393677
+F04 ,Pre,night,AC     ,0,685.9300537
+F04 ,Pre,night,AC     ,0,685.9300537
+F04 ,Pre,night,AC     ,0,678.9697876
+F04 ,Pre,night,AC     ,0,2456.425293
+F05 ,Pre,day  ,control,0,584.5725098
+F05 ,Pre,day  ,control,0,584.5725098
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,648.5560913
+F05 ,Pre,day  ,control,0,1699.448486
+F05 ,Pre,day  ,control,0,1935.800903
+F05 ,Pre,day  ,control,0,1935.800903
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1839.836914
+F05 ,Pre,day  ,control,0,1839.836914
+F05 ,Pre,day  ,control,0,1839.836914
+F05 ,Pre,day  ,control,0,1839.836914
+F05 ,Pre,day  ,control,0,1856.91272
+F05 ,Pre,day  ,control,0,1030.109253
+F05 ,Pre,day  ,control,0,801.4517822
+F05 ,Pre,day  ,control,0,489.0040894
+F05 ,Pre,day  ,control,0,566.3258667
+F05 ,Pre,day  ,control,0,355.5980835
+F05 ,Pre,day  ,control,0,190.9188385
+F05 ,Pre,night,control,0,648.2669067
+F05 ,Pre,night,control,0,628.3709106
+F05 ,Pre,night,control,0,648.2669067
+F05 ,Pre,night,control,0,627.8734131
+F05 ,Pre,night,control,0,631.5061646
+F05 ,Pre,night,control,0,633.3442993
+F05 ,Pre,night,control,0,648.2669067
+F05 ,Pre,night,control,0,733.8426514
+F05 ,Pre,night,control,0,1808.072144
+F05 ,Pre,night,control,0,1803.468872
+F05 ,Pre,night,control,0,1842.586548
+F05 ,Pre,night,control,0,1848.742798
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,287.793335
+F10 ,Pre,day  ,control,0,137.2953033
+F10 ,Pre,day  ,control,0,137.2953033
+F10 ,Pre,day  ,control,0,147.0544128
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,888.8334961
+F10 ,Pre,day  ,control,0,756.3398438
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,865.0144653
+F10 ,Pre,day  ,control,0,386.1670532
+F10 ,Pre,day  ,control,0,479.0093994
+F10 ,Pre,day  ,control,0,107.9351654
+F10 ,Pre,day  ,control,0,190.5911865
+F10 ,Pre,day  ,control,0,340.0367737
+F10 ,Pre,day  ,control,0,245
+F10 ,Pre,day  ,control,0,340.0367737
+F10 ,Pre,day  ,control,0,340.0367737
+F10 ,Pre,day  ,control,0,340.0367737
+F10 ,Pre,day  ,control,0,280.4014893
+F10 ,Pre,day  ,control,0,280.4014893
+F10 ,Pre,day  ,control,0,126.1942978
+F10 ,Pre,day  ,control,0,134.6291199
+F10 ,Pre,day  ,control,0,570.8108521
+F10 ,Pre,day  ,control,0,801.638916
+F10 ,Pre,day  ,control,0,1166.81189
+F10 ,Pre,night,control,0,245.1530151
+F10 ,Pre,night,control,0,717.9484863
+F10 ,Pre,night,control,0,1216.439453
+F10 ,Pre,night,control,0,831.6549683
+F10 ,Pre,night,control,0,839.4343262
+F10 ,Pre,night,control,0,290.9037781
+F10 ,Pre,night,control,0,298.4124756
+F10 ,Pre,night,control,0,185.8090363
+F12 ,Pre,day  ,control,0,213.6000977
+F12 ,Pre,day  ,control,0,268.5609741
+F12 ,Pre,day  ,control,0,213.6000977
+F12 ,Pre,day  ,control,0,367.4914856
+F12 ,Pre,day  ,control,0,245.9674835
+F12 ,Pre,day  ,control,0,114.127121
+F12 ,Pre,day  ,control,0,200.1249542
+F12 ,Pre,day  ,control,0,278.6575012
+F12 ,Pre,day  ,control,0,364.7259216
+F12 ,Pre,day  ,control,0,296.8164368
+F12 ,Pre,day  ,control,0,98.4885788
+F12 ,Pre,day  ,control,0,245.9674835
+F12 ,Pre,day  ,control,0,290.6888428
+F12 ,Pre,day  ,control,0,143.0034943
+F12 ,Pre,day  ,control,0,114.127121
+F12 ,Pre,day  ,control,0,134.5362396
+F13 ,Pre,day  ,AC     ,0,258.6986694
+F13 ,Pre,day  ,AC     ,0,105.4751129
+F13 ,Pre,day  ,AC     ,0,157.8765411
+F13 ,Pre,day  ,AC     ,0,246.2214508
+F13 ,Pre,day  ,AC     ,0,433.0415649
+F13 ,Pre,day  ,AC     ,0,195
+F13 ,Pre,day  ,AC     ,0,122.5765076
+F13 ,Pre,day  ,AC     ,0,99.62429047
+F13 ,Pre,day  ,AC     ,0,99.62429047
+F13 ,Pre,day  ,AC     ,0,197.0406036
+F13 ,Pre,day  ,AC     ,0,226.715683
+F13 ,Pre,day  ,AC     ,0,195
+F13 ,Pre,day  ,AC     ,0,165
+F13 ,Pre,night,AC     ,0,251.0478058
+F13 ,Pre,night,AC     ,0,251.0478058
+F13 ,Pre,night,AC     ,0,239.2697296
+F13 ,Pre,night,AC     ,0,259.8557434
+F13 ,Pre,night,AC     ,0,259.8557434
+F13 ,Pre,night,AC     ,0,236.9071503
+M17 ,Pre,day  ,AC     ,0,192.9378204
+M21 ,Pre,day  ,control,0,2380.257324
+M21 ,Pre,day  ,control,0,2113.036865
+M21 ,Pre,day  ,control,0,1306.723022
+M21 ,Pre,day  ,control,0,451.0543213
+M21 ,Pre,day  ,control,0,240.5202637
+M21 ,Pre,day  ,control,0,395.7903442
+M21 ,Pre,day  ,control,0,382.3937683
+M21 ,Pre,day  ,control,0,141.4213562
+M21 ,Pre,day  ,control,0,200.1249542
+M21 ,Pre,day  ,control,0,120
+M21 ,Pre,day  ,control,0,120.8304596
+M21 ,Pre,day  ,control,0,275.3634033
+M21 ,Pre,day  ,control,0,423.615387
+M21 ,Pre,day  ,control,0,395.7903442
+M21 ,Pre,day  ,control,0,253.0316162
+M21 ,Pre,day  ,control,0,167.7050934
+M21 ,Pre,day  ,control,0,246.829895
+M21 ,Pre,day  ,control,0,475.2367859
+M21 ,Pre,day  ,control,0,350.1785278
+M21 ,Pre,day  ,control,0,365.5475464
+M21 ,Pre,day  ,control,0,199.1230774
+M21 ,Pre,day  ,control,0,187.9494629
+M21 ,Pre,day  ,control,0,265.7536316
+M21 ,Pre,day  ,control,0,386.9431458
+M21 ,Pre,day  ,control,0,386.9431458
+M21 ,Pre,day  ,control,0,322.6840515
+M21 ,Pre,day  ,control,0,478.8789063
+M21 ,Pre,day  ,control,0,322.6840515
+M21 ,Pre,day  ,control,0,322.6840515
+M21 ,Pre,day  ,control,0,191.6376801
+M21 ,Pre,day  ,control,0,246.829895
+M21 ,Pre,night,control,0,228.2542419
+M21 ,Pre,night,control,0,223.4390259
+M21 ,Pre,night,control,0,227.7059479
+M21 ,Pre,night,control,0,229.4013977
+M21 ,Pre,night,control,0,215.8703308
+M21 ,Pre,night,control,0,237.6972809
+M21 ,Pre,night,control,0,232.432785
+M28 ,Pre,day  ,AC     ,0,226.715683
+M28 ,Pre,day  ,AC     ,0,240.5202637
+M28 ,Pre,day  ,AC     ,0,135.0925598
+M28 ,Pre,night,AC     ,0,107.9351654
+M28 ,Pre,night,AC     ,0,224.7220459
+M28 ,Pre,night,AC     ,0,138.2931671
+F04 ,Post,day  ,AC     ,0,192.9378204
+F04 ,Post,day  ,AC     ,0,226.2741699
+F04 ,Post,day  ,AC     ,0,151.3274536
+F04 ,Post,day  ,AC     ,0,107.0046692
+F04 ,Post,day  ,AC     ,0,109.6585617
+F04 ,Post,day  ,AC     ,0,169.1892395
+F04 ,Post,day  ,AC     ,0,226.2741699
+F04 ,Post,day  ,AC     ,0,459.6194153
+F04 ,Post,day  ,AC     ,0,901.5680542
+F04 ,Post,day  ,AC     ,0,1137.013672
+F04 ,Post,day  ,AC     ,0,1302.305664
+F04 ,Post,day  ,AC     ,0,1644.878418
+F04 ,Post,day  ,AC     ,0,1732.772339
+F04 ,Post,day  ,AC     ,0,1504.800659
+F04 ,Post,day  ,AC     ,0,1159.493408
+F04 ,Post,day  ,AC     ,0,894.6647339
+F04 ,Post,day  ,AC     ,0,713.3372192
+F04 ,Post,night,AC     ,0,173.2772369
+F04 ,Post,night,AC     ,0,159.1383057
+F04 ,Post,night,AC     ,0,180.3468933
+F04 ,Post,night,AC     ,0,176.7767029
+F04 ,Post,night,AC     ,0,183.8477631
+F04 ,Post,night,AC     ,0,180.3468933
+F04 ,Post,night,AC     ,0,176.7767029
+F04 ,Post,night,AC     ,0,753.6079712
+F04 ,Post,night,AC     ,0,749.1661987
+F04 ,Post,night,AC     ,0,746.8601074
+F04 ,Post,night,AC     ,0,742.4284668
+F04 ,Post,night,AC     ,0,760.3453369
+F04 ,Post,night,AC     ,0,751.3321533
+F04 ,Post,night,AC     ,0,760.3453369
+F10 ,Post,day  ,control,0,838.6000366
+F10 ,Post,day  ,control,0,573.1710205
+F10 ,Post,day  ,control,0,573.1710205
+F10 ,Post,day  ,control,0,573.1710205
+F10 ,Post,day  ,control,0,573.1710205
+F10 ,Post,day  ,control,0,573.1710205
+F10 ,Post,day  ,control,0,625.8793945
+F10 ,Post,day  ,control,0,756.3398438
+F10 ,Post,day  ,control,0,1502.215088
+F10 ,Post,day  ,control,0,765.27771
+F10 ,Post,day  ,control,0,340.0367737
+F10 ,Post,day  ,control,0,271.89151
+F10 ,Post,day  ,control,0,271.89151
+F10 ,Post,day  ,control,0,286.9233398
+F10 ,Post,day  ,control,0,268.7936096
+F10 ,Post,day  ,control,0,230.2172852
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,287.793335
+F10 ,Post,day  ,control,0,125
+F10 ,Post,day  ,control,0,207.9663391
+F10 ,Post,day  ,control,0,481.3003235
+F10 ,Post,day  ,control,0,279.3295593
+F10 ,Post,day  ,control,0,137.2953033
+F10 ,Post,night,control,0,161.0124207
+F10 ,Post,night,control,0,281.5137634
+F10 ,Post,night,control,0,207.9663391
+F10 ,Post,night,control,0,280.4460754
+F10 ,Post,night,control,0,221.359436
+F10 ,Post,night,control,0,402.6164551
+F10 ,Post,night,control,0,691.9898682
+F10 ,Post,night,control,0,1134.383057
+F10 ,Post,night,control,0,1380.153931
+F10 ,Post,night,control,0,1567.498047
+F10 ,Post,night,control,0,1346.476929
+F12 ,Post,day  ,control,0,112.3610229
+F12 ,Post,day  ,control,0,315.1586914
+F12 ,Post,day  ,control,0,235.212677
+F12 ,Post,day  ,control,0,147.6482239
+F12 ,Post,day  ,control,0,185
+F12 ,Post,day  ,control,0,232.6477966
+F12 ,Post,day  ,control,0,232.6477966
+F12 ,Post,day  ,control,0,207.9663391
+F12 ,Post,day  ,control,0,163.7833862
+F12 ,Post,day  ,control,0,98.4885788
+F12 ,Post,day  ,control,0,134.5362396
+F12 ,Post,day  ,control,0,134.5362396
+F12 ,Post,day  ,control,0,134.5362396
+F12 ,Post,day  ,control,0,134.5362396
+F12 ,Post,day  ,control,0,183.9836884
+F12 ,Post,day  ,control,0,268.5609741
+F12 ,Post,day  ,control,0,735.8838501
+F12 ,Post,day  ,control,0,1006.503845
+F12 ,Post,day  ,control,0,1662.174805
+F12 ,Post,day  ,control,0,1587.080688
+F12 ,Post,night,control,0,1587.025513
+F12 ,Post,night,control,0,1939.613403
+F12 ,Post,night,control,0,2198.829346
+F12 ,Post,night,control,0,2219.842285
+F12 ,Post,night,control,0,2207.221191
+F12 ,Post,night,control,0,2199.23291
+F13 ,Post,day  ,AC     ,0,195
+F13 ,Post,day  ,AC     ,0,226.715683
+F13 ,Post,day  ,AC     ,0,115
+F13 ,Post,day  ,AC     ,0,190
+F13 ,Post,day  ,AC     ,0,279.8660278
+F13 ,Post,day  ,AC     ,0,249.8999786
+F13 ,Post,day  ,AC     ,0,122.5765076
+F13 ,Post,day  ,AC     ,0,197.0406036
+F13 ,Post,day  ,AC     ,0,195
+F13 ,Post,day  ,AC     ,0,195
+F13 ,Post,day  ,AC     ,0,226.715683
+F13 ,Post,day  ,AC     ,0,275
+F13 ,Post,day  ,AC     ,0,215.6965485
+F13 ,Post,day  ,AC     ,0,176.1391449
+F13 ,Post,day  ,AC     ,0,270.7397156
+F13 ,Post,day  ,AC     ,0,129.8075562
+F13 ,Post,day  ,AC     ,0,111.8033981
+F13 ,Post,night,AC     ,0,114.127121
+M17 ,Post,day  ,AC     ,0,150.7481384
+M17 ,Post,day  ,AC     ,0,126.1942978
+M17 ,Post,day  ,AC     ,0,126.1942978
+M17 ,Post,day  ,AC     ,0,126.1942978
+M17 ,Post,day  ,AC     ,0,126.1942978
+M21 ,Post,day  ,control,0,1765.962891
+M21 ,Post,day  ,control,0,890.4212646
+M21 ,Post,day  ,control,0,172.4093933
+M21 ,Post,day  ,control,0,370.3039246
+M21 ,Post,day  ,control,0,187.4166412
+M21 ,Post,day  ,control,0,177.3414764
+M21 ,Post,day  ,control,0,580.3447266
+M21 ,Post,day  ,control,0,1035.193237
+M21 ,Post,day  ,control,0,322.6840515
+M21 ,Post,day  ,control,0,322.6840515
+M21 ,Post,day  ,control,0,466.6904907
+M21 ,Post,day  ,control,0,466.6904907
+M21 ,Post,day  ,control,0,322.6840515
+M21 ,Post,day  ,control,0,265.7536316
+M21 ,Post,day  ,control,0,322.6840515
+M21 ,Post,day  ,control,0,322.6840515
+M21 ,Post,day  ,control,0,390.2883606
+M21 ,Post,day  ,control,0,187.2164459
+M21 ,Post,day  ,control,0,651.8051758
+M21 ,Post,day  ,control,0,4124.018066
+M21 ,Post,day  ,control,0,5392.348633
+M21 ,Post,day  ,control,0,5864.38623
+M21 ,Post,day  ,control,0,3468.302979
+M21 ,Post,day  ,control,0,1899.736816
+M21 ,Post,day  ,control,0,1670.366699
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1698.035645
+M21 ,Post,day  ,control,0,1786.68689
+M21 ,Post,day  ,control,0,122.0655594
+M21 ,Post,day  ,control,0,199.0602875
+M21 ,Post,day  ,control,0,442.0407104
+M21 ,Post,day  ,control,0,466.15448
+M21 ,Post,night,control,0,324.4996033
+M21 ,Post,night,control,0,301.039856
+M21 ,Post,night,control,0,318.0015869
+M21 ,Post,night,control,0,1748.842529
+M21 ,Post,night,control,0,1778.215454
+M21 ,Post,night,control,0,1763.838135
+M21 ,Post,night,control,0,1681.019043
+M21 ,Post,night,control,0,1791.200684
+M21 ,Post,night,control,0,1777.751343
+M28 ,Post,night,AC     ,0,103.0776443
+F12 ,Post,day  ,control,0.000795543,98.61541748
+F12 ,Post,day  ,control,0.000795543,98.61541748
+F13 ,Pre,day  ,AC     ,0.00238663,97.08243561
+M28 ,Post,night,AC     ,0.003182173,97.08243561
+M28 ,Post,night,AC     ,0.003977716,99.24716949
+M21 ,Pre,day  ,control,0.005568802,87.46427917
+M21 ,Pre,day  ,control,0.005568802,87.46427917
+M21 ,Pre,day  ,control,0.005568802,87.46427917
+F05 ,Pre,day  ,control,0.007159889,91.92388153
+M28 ,Post,day  ,AC     ,0.007159889,83.81526947
+M28 ,Post,day  ,AC     ,0.007159889,83.81526947
+M28 ,Post,night,AC     ,0.007159889,95
+F04 ,Post,day  ,AC     ,0.007955432,89.44271851
+F10 ,Pre,night,control,0.009546518,89.02246857
+M28 ,Pre,night,AC     ,0.011933148,93.40770721
+F10 ,Pre,day  ,control,0.013524294,88.45903015
+M21 ,Pre,day  ,control,0.013524294,93.40770721
+M28 ,Post,night,AC     ,0.01511538,55.22680664
+M28 ,Post,night,AC     ,0.01511538,55
+M21 ,Post,night,control,0.01750201,88.45903015
+F05 ,Pre,day  ,control,0.019093096,78.26238251
+M21 ,Post,night,control,0.023070812,84.85281372
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Pre,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+M28 ,Post,day  ,AC     ,0.023866355,90
+F10 ,Post,day  ,control,0.032617331,72.80110168
+F13 ,Pre,day  ,AC     ,0.033412874,85.14693451
+M17 ,Pre,day  ,AC     ,0.033412874,85.14693451
+M17 ,Pre,day  ,AC     ,0.033412874,85.14693451
+M28 ,Pre,day  ,AC     ,0.033412874,71.5891037
+M21 ,Post,night,control,0.034208417,81.394104
+F04 ,Pre,night,AC     ,0.044550538,63.24555206
+M21 ,Post,night,control,0.045346081,87.46427917
+F12 ,Pre,day  ,control,0.0548926,56.56854248
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F05 ,Post,day  ,control,0.057279229,75.66372681
+F04 ,Pre,night,AC     ,0.058870316,55.90169907
+F04 ,Pre,night,AC     ,0.058870316,55.90169907
+F10 ,Pre,day  ,control,0.058870316,73.82411194
+F10 ,Pre,night,control,0.058870316,40
+F10 ,Pre,night,control,0.061256945,25
+F12 ,Pre,day  ,control,0.062052488,64.03124237
+M28 ,Pre,day  ,AC     ,0.062052488,83.21658325
+M28 ,Pre,day  ,AC     ,0.062052488,83.21658325
+M28 ,Pre,day  ,AC     ,0.062052488,83.21658325
+F10 ,Post,day  ,control,0.062052488,50
+F12 ,Post,day  ,control,0.062052488,64.03124237
+M28 ,Pre,night,AC     ,0.062848032,77.78174591
+F12 ,Post,day  ,control,0.064439118,82.46211243
+M17 ,Post,day  ,AC     ,0.064439118,77.6208725
+M17 ,Pre,day  ,AC     ,0.065234661,80.62257385
+M28 ,Pre,night,AC     ,0.065234661,77.78174591
+F04 ,Pre,night,AC     ,0.066030204,55.90169907
+M21 ,Pre,day  ,control,0.068416893,49.2442894
+F04 ,Pre,night,AC     ,0.070803523,52.20153427
+F10 ,Pre,night,control,0.070803523,25.49509811
+M21 ,Pre,day  ,control,0.070803523,67.26811981
+M21 ,Pre,day  ,control,0.070803523,67.26811981
+F04 ,Pre,night,AC     ,0.075576782,50.2493782
+F04 ,Pre,night,AC     ,0.077963412,50.2493782
+F05 ,Post,night,control,0.083532214,70
+F10 ,Pre,day  ,control,0.08989656,5
+F04 ,Pre,night,AC     ,0.091487646,50
+F12 ,Pre,night,control,0.093874276,46.0977211
+F10 ,Post,night,control,0.094669878,39.05124664
+M28 ,Post,night,AC     ,0.098647594,70
+F13 ,Pre,day  ,AC     ,0.101034224,42.42640686
+M28 ,Pre,day  ,AC     ,0.104216397,50
+M28 ,Pre,day  ,AC     ,0.104216397,50
+F13 ,Post,day  ,AC     ,0.104216397,50
+F13 ,Post,day  ,AC     ,0.104216397,50
+F13 ,Post,day  ,AC     ,0.104216397,50
+M28 ,Post,day  ,AC     ,0.104216397,50
+M28 ,Post,day  ,AC     ,0.104216397,50
+M28 ,Post,night,AC     ,0.104216397,67.08203888
+F04 ,Pre,night,AC     ,0.109785199,40.31128693
+F05 ,Pre,day  ,control,0.109785199,55.90169907
+M28 ,Pre,day  ,AC     ,0.114558458,65
+M28 ,Post,day  ,AC     ,0.114558458,65
+M28 ,Post,day  ,AC     ,0.114558458,65
+F05 ,Pre,night,control,0.115354002,55.22680664
+M28 ,Pre,night,AC     ,0.120127261,63.63961029
+F10 ,Post,day  ,control,0.141606987,60.4152298
+F10 ,Post,day  ,control,0.141606987,60.4152298
+F10 ,Post,day  ,control,0.141606987,60.4152298
+M28 ,Post,day  ,AC     ,0.141606987,57.00876999
+F12 ,Post,day  ,control,0.145584702,42.72002029
+F13 ,Post,night,AC     ,0.147175789,60
+F10 ,Pre,night,control,0.147971332,18.02775574
+F04 ,Post,day  ,AC     ,0.147971332,55
+F13 ,Post,day  ,AC     ,0.151153564,55.22680664
+M17 ,Pre,night,AC     ,0.152744651,38.07886505
+M17 ,Post,day  ,AC     ,0.154335737,46.0977211
+F13 ,Pre,day  ,AC     ,0.155926824,60.20797348
+F10 ,Post,night,control,0.156722367,44.72135925
+F05 ,Post,night,control,0.15751791,44.72135925
+F13 ,Post,day  ,AC     ,0.159108996,36.05551147
+F05 ,Post,night,control,0.167859972,42.72002029
+M28 ,Post,night,AC     ,0.168655515,61.03277969
+F05 ,Post,night,control,0.172633231,40
+F05 ,Post,night,control,0.175815463,35.35533905
+F10 ,Post,night,control,0.184566438,35
+M17 ,Pre,night,AC     ,0.185361981,40.31128693
+F10 ,Post,night,control,0.185361981,40
+F05 ,Pre,night,control,0.187748611,35
+F05 ,Post,night,control,0.187748611,35
+M17 ,Pre,day  ,AC     ,0.190930784,57.00876999
+M17 ,Post,day  ,AC     ,0.190930784,57.00876999
+F05 ,Pre,day  ,control,0.1949085,0
+M28 ,Pre,day  ,AC     ,0.1949085,55
+M17 ,Post,day  ,AC     ,0.1949085,55
+F05 ,Post,night,control,0.199681759,33.54101944
+F13 ,Post,night,AC     ,0.21002388,42.42640686
+M17 ,Post,day  ,AC     ,0.216388226,55
+F04 ,Pre,day  ,AC     ,0.217183769,32.01562119
+F04 ,Post,day  ,AC     ,0.217183769,32.01562119
+M17 ,Pre,night,AC     ,0.231503606,20
+F13 ,Pre,day  ,AC     ,0.243436754,7.07106781
+M17 ,Post,day  ,AC     ,0.243436754,7.07106781
+F13 ,Post,day  ,AC     ,0.248210013,35
+M17 ,Pre,night,AC     ,0.249005556,43.0116272
+M17 ,Post,day  ,AC     ,0.252187729,15.81138802
+F10 ,Pre,night,control,0.26014322,32.01562119
+F10 ,Post,day  ,control,0.261734307,32.01562119
+F10 ,Post,day  ,control,0.261734307,32.01562119
+F13 ,Post,night,AC     ,0.26252985,40
+F13 ,Pre,day  ,AC     ,0.263325393,40
+F13 ,Pre,day  ,AC     ,0.268098652,40
+F04 ,Pre,day  ,AC     ,0.276054084,50.2493782
+F13 ,Pre,day  ,AC     ,0.283213973,35
+M17 ,Post,day  ,AC     ,0.284009576,50.2493782
+F13 ,Pre,day  ,AC     ,0.285600662,30
+F10 ,Pre,day  ,control,0.287191749,0
+F10 ,Post,day  ,control,0.287191749,0
+F13 ,Post,night,AC     ,0.287987292,35
+F04 ,Post,night,AC     ,0.29753381,18.02775574
+F13 ,Post,day  ,AC     ,0.29753381,35
+F04 ,Post,night,AC     ,0.303898156,18.02775574
+M28 ,Pre,night,AC     ,0.305489242,35
+F13 ,Pre,day  ,AC     ,0.310262501,30
+M17 ,Pre,day  ,AC     ,0.313444734,25
+F10 ,Post,night,control,0.313444734,32.01562119
+F13 ,Pre,day  ,AC     ,0.316626906,31.62277603
+F13 ,Pre,day  ,AC     ,0.316626906,31.62277603
+M17 ,Pre,day  ,AC     ,0.316626906,31.62277603
+F04 ,Post,night,AC     ,0.318217993,14.14213562
+F04 ,Post,night,AC     ,0.318217993,14.14213562
+F10 ,Post,day  ,control,0.324582338,0
+F10 ,Post,day  ,control,0.324582338,0
+F13 ,Pre,day  ,AC     ,0.334128857,31.62277603
+F10 ,Pre,night,control,0.344470978,0
+M17 ,Pre,day  ,AC     ,0.347653151,29.15476036
+M17 ,Post,day  ,AC     ,0.347653151,29.15476036
+M17 ,Post,day  ,AC     ,0.348448694,15
+M17 ,Pre,night,AC     ,0.35242641,28.28427124
+F13 ,Pre,day  ,AC     ,0.354017496,5
+M17 ,Pre,day  ,AC     ,0.356404126,14.14213562
+F05 ,Pre,day  ,control,0.357995212,0
+F05 ,Pre,day  ,control,0.357995212,0
+F05 ,Pre,day  ,control,0.357995212,0
+F05 ,Post,day  ,control,0.357995212,0
+F05 ,Post,day  ,control,0.357995212,0
+M28 ,Pre,night,AC     ,0.358790755,31.62277603
+F13 ,Pre,day  ,AC     ,0.361177385,33.54101944
+M17 ,Post,night,AC     ,0.363564014,50
+M17 ,Post,day  ,AC     ,0.373906136,25
+M17 ,Post,night,AC     ,0.377088308,0
+F12 ,Post,day  ,control,0.378679395,10
+F10 ,Post,day  ,control,0.380270481,20
+F13 ,Pre,day  ,AC     ,0.385839283,5
+M17 ,Post,night,AC     ,0.409705639,46.0977211
+M17 ,Post,night,AC     ,0.415274441,39.05124664
+F05 ,Pre,day  ,control,0.417661071,0
+F05 ,Post,day  ,control,0.417661071,0
+M21 ,Pre,day  ,control,0.42004776,0
+M21 ,Pre,day  ,control,0.42004776,0
+M21 ,Pre,day  ,control,0.42004776,0
+M21 ,Post,day  ,control,0.42004776,0
+F10 ,Pre,night,control,0.420843303,5
+M17 ,Pre,day  ,AC     ,0.421638846,0
+M17 ,Pre,night,AC     ,0.435958624,0
+M17 ,Post,night,AC     ,0.439140797,35.35533905
+M17 ,Post,night,AC     ,0.439140797,35.35533905
+F12 ,Pre,day  ,control,0.441527426,5
+F12 ,Pre,day  ,control,0.441527426,5
+M21 ,Post,night,control,0.447891831,0
+F13 ,Pre,day  ,AC     ,0.450278461,0
+F13 ,Post,day  ,AC     ,0.450278461,0
+F13 ,Post,day  ,AC     ,0.450278461,0
+F13 ,Post,day  ,AC     ,0.450278461,0
+F05 ,Post,night,control,0.45505172,0
+M17 ,Post,day  ,AC     ,0.45743835,30
+M17 ,Post,day  ,AC     ,0.45743835,30
+M17 ,Post,day  ,AC     ,0.466984868,35.35533905
+M17 ,Post,night,AC     ,0.466984868,0
+F05 ,Post,night,control,0.468575954,0
+M21 ,Pre,day  ,control,0.479713619,0
+M28 ,Pre,night,AC     ,0.487669051,18.02775574
+F04 ,Post,day  ,AC     ,0.490851223,0
+F13 ,Post,day  ,AC     ,0.493237853,5
+M17 ,Post,day  ,AC     ,0.493237853,0
+F13 ,Pre,day  ,AC     ,0.497215569,0
+M17 ,Pre,day  ,AC     ,0.501988858,0
+M28 ,Pre,day  ,AC     ,0.501988858,0
+M28 ,Pre,day  ,AC     ,0.501988858,0
+F13 ,Post,day  ,AC     ,0.511535406,31.62277603
+F04 ,Post,day  ,AC     ,0.514717579,0
+F04 ,Post,day  ,AC     ,0.514717579,0
+F04 ,Post,day  ,AC     ,0.514717579,0
+F12 ,Pre,day  ,control,0.521081954,0
+F12 ,Pre,day  ,control,0.529037386,15
+F12 ,Pre,night,control,0.531424016,0
+F13 ,Post,day  ,AC     ,0.548926026,0
+M17 ,Pre,day  ,AC     ,0.555290371,0
+F13 ,Post,day  ,AC     ,0.556085914,0
+M21 ,Pre,day  ,control,0.556881458,5
+M17 ,Pre,day  ,AC     ,0.558472544,5
+M17 ,Pre,day  ,AC     ,0.558472544,5
+M17 ,Pre,day  ,AC     ,0.558472544,5
+M17 ,Post,day  ,AC     ,0.558472544,10
+F04 ,Pre,day  ,AC     ,0.559268087,0
+F10 ,Post,night,control,0.56006363,18.02775574
+M17 ,Post,day  ,AC     ,0.561654747,0
+F13 ,Pre,day  ,AC     ,0.564041376,15.81138802
+M28 ,Pre,day  ,AC     ,0.564041376,15.81138802
+M17 ,Pre,day  ,AC     ,0.566428006,0
+F05 ,Post,night,control,0.574383467,0
+F05 ,Post,night,control,0.583929986,10
+F05 ,Post,night,control,0.587907732,0
+M17 ,Post,day  ,AC     ,0.590294361,0
+F10 ,Pre,day  ,control,0.592680991,0
+F10 ,Post,day  ,control,0.592680991,0
+F10 ,Post,day  ,control,0.592680991,0
+F10 ,Post,day  ,control,0.592680991,0
+F10 ,Post,day  ,control,0.592680991,0
+F10 ,Post,day  ,control,0.592680991,0
+M17 ,Pre,day  ,AC     ,0.595863163,5
+F12 ,Pre,day  ,control,0.603023082,0
+M17 ,Pre,day  ,AC     ,0.616547346,0
+F12 ,Post,day  ,control,0.618138433,0
+F10 ,Pre,night,control,0.618933976,0
+F04 ,Post,day  ,AC     ,0.626093864,0
+F12 ,Post,day  ,control,0.626093864,0
+M28 ,Pre,day  ,AC     ,0.628480524,0
+F13 ,Pre,night,AC     ,0.634049326,0
+F13 ,Pre,day  ,AC     ,0.641209215,0
+M17 ,Pre,day  ,AC     ,0.641209215,0
+M17 ,Pre,day  ,AC     ,0.641209215,0
+M17 ,Post,day  ,AC     ,0.641209215,0
+M17 ,Pre,day  ,AC     ,0.642800331,0
+M17 ,Pre,day  ,AC     ,0.645982504,0
+M17 ,Pre,day  ,AC     ,0.664280027,0
+M17 ,Post,night,AC     ,0.66507557,0
+F13 ,Post,day  ,AC     ,0.666666657,0
+F05 ,Pre,night,control,0.676213205,0
+F13 ,Pre,night,AC     ,0.680986464,0
+F05 ,Pre,night,control,0.686555296,0
+F05 ,Pre,night,control,0.688146383,0
+F04 ,Post,day  ,AC     ,0.696897388,0
+M28 ,Pre,day  ,AC     ,0.701670647,0
+M28 ,Post,day  ,AC     ,0.71758154,0
+F05 ,Post,night,control,0.725537002,0
+F05 ,Pre,night,control,0.736674637,0
+F05 ,Post,night,control,0.736674637,0
+F05 ,Post,day  ,control,0.740652353,0
+F05 ,Post,day  ,control,0.740652353,0
+F05 ,Post,day  ,control,0.740652353,0
+F05 ,Post,day  ,control,0.740652353,0
+F05 ,Post,day  ,control,0.740652353,0
+F05 ,Post,night,control,0.747812241,0
+F05 ,Post,night,control,0.749403328,0
+M17 ,Pre,day  ,AC     ,0.754176617,0
+M17 ,Post,day  ,AC     ,0.754176617,0
+M17 ,Post,day  ,AC     ,0.758154333,5
+M17 ,Post,day  ,AC     ,0.758154333,5
+M17 ,Pre,day  ,AC     ,0.760540977,0
+F05 ,Post,night,control,0.760540977,0
+M17 ,Pre,day  ,AC     ,0.762132064,0
+M17 ,Pre,day  ,AC     ,0.762132064,0
+M17 ,Pre,day  ,AC     ,0.762132064,0
+M17 ,Pre,day  ,AC     ,0.762132064,0
+M17 ,Post,night,AC     ,0.762132064,0
+F13 ,Pre,day  ,AC     ,0.774065241,0
+F13 ,Pre,night,AC     ,0.778042957,0
+M17 ,Post,night,AC     ,0.7788385,0
+M17 ,Post,day  ,AC     ,0.789180592,0
+F13 ,Pre,night,AC     ,0.793953866,0
+M17 ,Post,day  ,AC     ,0.802704856,0
+M28 ,Post,night,AC     ,0.802704856,0
+M17 ,Pre,day  ,AC     ,0.805887029,0
+F13 ,Pre,night,AC     ,0.80747813,0
+F13 ,Pre,day  ,AC     ,0.810660303,0
+F12 ,Pre,day  ,control,0.813046932,0
+F13 ,Post,day  ,AC     ,0.815433577,0
+F12 ,Pre,day  ,control,0.818615749,0
+F12 ,Pre,day  ,control,0.818615749,0
+F13 ,Pre,day  ,AC     ,0.821002394,0
+F13 ,Pre,day  ,AC     ,0.824184567,0
+M28 ,Pre,day  ,AC     ,0.824184567,0
+F13 ,Pre,night,AC     ,0.82498011,0
+F10 ,Pre,night,control,0.830548927,0
+F12 ,Pre,day  ,control,0.834526658,0
+M28 ,Pre,night,AC     ,0.841686562,0
+M21 ,Pre,day  ,control,0.844073191,0
+F12 ,Post,night,control,0.849642009,0
+M28 ,Pre,night,AC     ,0.854415268,0
+F13 ,Pre,night,AC     ,0.856801912,0
+M17 ,Pre,day  ,AC     ,0.857597455,0
+F12 ,Pre,night,control,0.859188542,0
+F12 ,Pre,night,control,0.859188542,0
+M17 ,Pre,day  ,AC     ,0.860779628,0
+M17 ,Pre,day  ,AC     ,0.863166273,0
+F12 ,Post,night,control,0.863961816,0
+M17 ,Pre,day  ,AC     ,0.869530633,0
+M21 ,Pre,day  ,control,0.869530633,0
+F10 ,Pre,day  ,control,0.876690537,0
+F04 ,Post,day  ,AC     ,0.876690537,0
+M28 ,Pre,night,AC     ,0.88066826,0
+F12 ,Post,night,control,0.888623707,0
+F13 ,Post,day  ,AC     ,0.904534608,0
+M17 ,Post,day  ,AC     ,0.904534608,0
+F10 ,Pre,night,control,0.906125695,0
+M17 ,Post,day  ,AC     ,0.906921238,0
+M17 ,Pre,day  ,AC     ,0.912490055,0
+M17 ,Post,day  ,AC     ,0.913285598,0
+M17 ,Post,day  ,AC     ,0.913285598,0
+M17 ,Post,day  ,AC     ,0.913285598,0
+F04 ,Post,night,AC     ,0.918058872,0
+F10 ,Post,night,control,0.927605413,0
+M17 ,Pre,day  ,AC     ,0.929196499,0
+M17 ,Post,day  ,AC     ,0.929196499,0
+M28 ,Pre,day  ,AC     ,0.931583136,0
+M17 ,Post,day  ,AC     ,0.931583136,0
+F12 ,Pre,night,control,0.93556086,0
+M28 ,Post,day  ,AC     ,0.946698487,0
+F13 ,Post,day  ,AC     ,0.949880667,0
+F10 ,Pre,night,control,0.952267304,0
+F12 ,Pre,day  ,control,0.956245027,0
+F12 ,Pre,day  ,control,0.956245027,0
+F12 ,Pre,day  ,control,0.956245027,0
+M17 ,Post,night,AC     ,0.959427208,0
+F04 ,Post,night,AC     ,0.965791568,0
+F10 ,Pre,day  ,control,0.966587111,0
+M17 ,Post,night,AC     ,0.968973747,0
+F10 ,Pre,night,control,0.971360382,0
+M17 ,Post,night,AC     ,0.971360382,0
+M28 ,Pre,night,AC     ,0.974542562,0
+F12 ,Pre,night,control,0.980111375,0
+F04 ,Post,night,AC     ,0.980111375,0
+F12 ,Pre,night,control,0.982498011,0
+M17 ,Pre,day  ,AC     ,0.988862371,0
+M28 ,Pre,day  ,AC     ,0.988862371,0
+M17 ,Post,day  ,AC     ,0.988862371,0
+M17 ,Post,day  ,AC     ,0.988862371,0
+M17 ,Post,day  ,AC     ,0.988862371,0
+M17 ,Post,day  ,AC     ,0.988862371,0
+F04 ,Post,night,AC     ,0.99045346,0
+F04 ,Post,day  ,AC     ,0.99522673,0
+M17 ,Post,night,AC     ,0.99522673,0
+F12 ,Pre,night,control,0.996022275,0
+F10 ,Post,day  ,control,0.996022275,0
+M17 ,Post,night,AC     ,0.996022275,0
+F04 ,Pre,day  ,AC     ,1,0
+F04 ,Pre,day  ,AC     ,1,0
+F10 ,Pre,day  ,control,1,0
+F10 ,Pre,day  ,control,1,0
+F10 ,Pre,day  ,control,1,0
+F10 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,day  ,control,1,0
+F12 ,Pre,night,control,1,0
+F12 ,Pre,night,control,1,0
+F12 ,Pre,night,control,1,0
+F12 ,Pre,night,control,1,0
+F12 ,Pre,night,control,1,0
+F12 ,Pre,night,control,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,day  ,AC     ,1,0
+F13 ,Pre,night,AC     ,1,0
+F13 ,Pre,night,AC     ,1,0
+F13 ,Pre,night,AC     ,1,0
+M17 ,Pre,day  ,AC     ,1,0
+M17 ,Pre,day  ,AC     ,1,0
+M17 ,Pre,day  ,AC     ,1,0
+M17 ,Pre,day  ,AC     ,1,0
+M17 ,Pre,day  ,AC     ,1,0
+M28 ,Pre,day  ,AC     ,1,0
+M28 ,Pre,day  ,AC     ,1,0
+M28 ,Pre,day  ,AC     ,1,0
+M28 ,Pre,night,AC     ,1,0
+M28 ,Pre,night,AC     ,1,0
+F04 ,Post,day  ,AC     ,1,0
+F04 ,Post,night,AC     ,1,0
+F10 ,Post,night,control,1,0
+F10 ,Post,night,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,day  ,control,1,0
+F12 ,Post,night,control,1,0
+F12 ,Post,night,control,1,0
+F12 ,Post,night,control,1,0
+F12 ,Post,night,control,1,0
+F12 ,Post,night,control,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,day  ,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+F13 ,Post,night,AC     ,1,0
+M17 ,Post,day  ,AC     ,1,0
+M17 ,Post,day  ,AC     ,1,0
+M17 ,Post,day  ,AC     ,1,0
+M17 ,Post,day  ,AC     ,1,0
+M17 ,Post,night,AC     ,1,0
+M17 ,Post,night,AC     ,1,0
+M21 ,Post,night,control,1,0
+M28 ,Post,day  ,AC     ,1,0
+M28 ,Post,night,AC     ,1,0
